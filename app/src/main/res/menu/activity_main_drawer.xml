@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_check_update"
+            android:icon="@drawable/ic_check_update"
+            android:title="Check Update"/>
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_share"
+            android:title="Share" />
+        <item
+            android:id="@+id/nav_help"
+            android:icon="@drawable/ic_help"
+            android:title="Help" />
+        <item
+            android:id="@+id/nav_about_us"
+            android:icon="@drawable/ic_about_us"
+            android:title="About Us" />
+        <item
+            android:id="@+id/nav_rate"
+            android:icon="@drawable/ic_rate"
+            android:title="Rate us" />
+
+    </group>
+
+    <item  android:title="More Info">
+    <menu>
+        <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/nav_app_version"
+                android:icon="@drawable/nav_app_version"
+                android:title="App version:"/>
+            <item
+                android:id="@+id/nav_pp"
+                android:icon="@drawable/ic_pp"
+                android:title="Privacy Policy" />
+            <item
+                android:id="@+id/nav_tnc"
+                android:icon="@drawable/ic_tnc"
+                android:title="Terms and Conditions" />
+        </group>
+    </menu>
+</item>
+</menu>

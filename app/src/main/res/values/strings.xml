@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">DesignWithMenu</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="heading_1">This is Heading One for Slider</string>
+    <string name="heading_2">This is Heading Two for Slider</string>
+    <string name="heading_3">This is Heading Three for Slider</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!--For App Intro Slider-->
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Latest NEWS</string>
+    <string name="slide_1_desc">All the Latest News from you Favourite Club!</string>
+
+    <string name="slide_2_title">LIVE Match Commentary</string>
+    <string name="slide_2_desc">Never miss a Match! Now keep a track of the match wherever you go.</string>
+
+    <string name="slide_3_title">Live In-Game Videos</string>
+    <string name="slide_3_desc">Catch all the action LIVE! You will never miss a game now.</string>
+
+    <string name="slide_4_title">Fixtures</string>
+    <string name="slide_4_desc">Keep a track of your favourite team on the go.</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+
+</resources>

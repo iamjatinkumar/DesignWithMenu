@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "493665106911",
+    "firebase_url": "https://designwithmenu.firebaseio.com",
+    "project_id": "designwithmenu",
+    "storage_bucket": "designwithmenu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493665106911:android:04eaca61ec6dfc14",
+        "android_client_info": {
+          "package_name": "com.infinitysports.designwithmenu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493665106911-gcacs1m8n4h2fpmveojmj6bfca9ba7b1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBReh3SEEzINb9mb_AxBR5bFqSAPn7Kol4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
